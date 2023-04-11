@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxOOWFJFShBSPlGZ5AHr1opqsBVZQdlVWrOaFHuk4GlOcNpPRiO3ANTxKcdPTdW2uCjn+v54TnH1K54YjWEDig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolan\\OneDrive - Roskilde Universitet\\Documents\\University\\2 semester\\Functional Programing\\Files-20230327\\ParserExample\\ParserExample.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolan\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
